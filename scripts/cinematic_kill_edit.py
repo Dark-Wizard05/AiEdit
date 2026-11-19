@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import argparse
 import subprocess
 from pathlib import Path
 
@@ -9,9 +10,12 @@ import cv2
 import imageio_ffmpeg
 import numpy as np
 
-INPUT = Path(r"c:\Users\adity\Videos\Counter-Strike 2 - 2026-07-04 8-36-55 PM - Double kill.mp4")
-MUSIC = Path(r"c:\Users\adity\Downloads\AiEdit\downloads\gobble_glitch.mp3")
-OUTPUT = Path(r"c:\Users\adity\Downloads\AiEdit\downloads\cs2_cinematic_kill.mp4")
+_REPO_ROOT = Path(__file__).resolve().parents[1]
+_DOWNLOADS = _REPO_ROOT / "downloads"
+
+INPUT: Path
+MUSIC: Path
+OUTPUT: Path
 
 # Kill sequence in source footage (seconds)
 SRC_START = 2.15
@@ -146,6 +150,28 @@ def mux_audio(silent_video: Path, duration: float) -> None:
 
 
 def main() -> None:
+    global INPUT, MUSIC, OUTPUT
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--input",
+        type=Path,
+        required=True,
+        help="Source gameplay clip (local path)",
+    )
+    parser.add_argument(
+        "--music",
+        type=Path,
+        default=_DOWNLOADS / "gobble_glitch.mp3",
+        help="Background track under downloads/ by default",
+    )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=_DOWNLOADS / "cs2_cinematic_kill.mp4",
+        help="Rendered file under downloads/ by default",
+    )
+    args = parser.parse_args()
+    INPUT, MUSIC, OUTPUT = args.input, args.music, args.output
     OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     silent, duration = build_video()
     mux_audio(silent, duration)

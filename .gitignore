@@ -13,8 +13,9 @@ env/
 .env
 .env.*
 
-# Runtime logs (keep directory; ignore bulky rotating logs)
-logs/*.log
+# Runtime logs (keep directory; ignore local session/prompt data)
+logs/*
+!logs/.gitkeep
 
 # Generated edit output (video, audio, frames)
 downloads/

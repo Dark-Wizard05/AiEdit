@@ -2,16 +2,18 @@
 
 from __future__ import annotations
 
+import argparse
 import subprocess
 from pathlib import Path
 
 import imageio_ffmpeg
 
-INPUT = Path(
-    r"c:\Users\adity\Videos\Counter-Strike 2 - 2026-07-04 8-36-55 PM - Double kill.mp4"
-)
-MUSIC = Path(r"c:\Users\adity\Downloads\AiEdit\downloads\gobble_glitch.mp3")
-OUTPUT = Path(r"c:\Users\adity\Downloads\AiEdit\downloads\cs2_double_kill_edit.mp4")
+_REPO_ROOT = Path(__file__).resolve().parents[1]
+_DOWNLOADS = _REPO_ROOT / "downloads"
+
+INPUT: Path
+MUSIC: Path
+OUTPUT: Path
 
 # (source_start_sec, source_end_sec, playback_speed)
 # speed 0.25 => 4x slower (1s source lasts 4s)
@@ -65,6 +67,30 @@ def build_video_filter(segments: list[tuple[float, float, float]]) -> str:
 
 
 def main() -> None:
+    global INPUT, MUSIC, OUTPUT
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--input",
+        type=Path,
+        required=True,
+        help="Source gameplay clip (local path)",
+    )
+    parser.add_argument(
+        "--music",
+        type=Path,
+        default=_DOWNLOADS / "gobble_glitch.mp3",
+        help="Background track under downloads/ by default",
+    )
+    parser.add_argument(
+        "--output",
+        type=Path,
+        default=_DOWNLOADS / "cs2_double_kill_edit.mp4",
+        help="Rendered file under downloads/ by default",
+    )
+    args = parser.parse_args()
+    INPUT, MUSIC, OUTPUT = args.input, args.music, args.output
+    OUTPUT.parent.mkdir(parents=True, exist_ok=True)
+
     duration = probe_duration(INPUT)
     segments = list(SEGMENTS)
     segments[-1] = (segments[-1][0], duration, segments[-1][2])
