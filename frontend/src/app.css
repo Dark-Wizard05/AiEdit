@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  * {
+    @apply border-zinc-800;
+  }
+
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply rounded-full bg-zinc-700;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg bg-gradient-to-r from-accent to-accent-glow px-5 py-2.5 text-sm font-semibold text-white shadow-glow transition hover:brightness-110 disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  .btn-ghost {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg border border-zinc-700 bg-surface-raised px-4 py-2 text-sm font-medium text-zinc-200 transition hover:border-zinc-500 hover:bg-surface-overlay;
+  }
+
+  .panel {
+    @apply rounded-xl border border-zinc-800/80 bg-surface-raised/90 shadow-card backdrop-blur-sm;
+  }
+
+  .chip {
+    @apply cursor-pointer rounded-full border border-zinc-700 bg-surface px-3 py-1 text-xs text-zinc-300 transition hover:border-accent/50 hover:text-white;
+  }
+
+  .chip-active {
+    @apply border-accent/60 bg-accent/15 text-violet-200;
+  }
+}

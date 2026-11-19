@@ -1,0 +1,440 @@
+[
+  {
+    "timestamp": "2026-03-04T18:28:17.588195",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmph80_grhm\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Replace 'Game Over' with 'Both'",
+    "status": "started",
+    "details": {
+      "device": "cpu"
+    }
+  },
+  {
+    "timestamp": "2026-03-04T18:28:18.942118",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmph80_grhm\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Replace 'Game Over' with 'Both'",
+    "status": "completed",
+    "details": {
+      "frames_processed": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-04T18:32:12.523427",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp5s298kgx\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Replace 'Game Over' with 'Both'",
+    "status": "started",
+    "details": {
+      "device": "cpu"
+    }
+  },
+  {
+    "timestamp": "2026-03-04T18:32:13.843472",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp5s298kgx\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Replace 'Game Over' with 'Both'",
+    "status": "completed",
+    "details": {
+      "frames_processed": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-04T18:43:01.758574",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpwbjk0miy\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Replace 'Game Over' with 'Both'",
+    "status": "started",
+    "details": {
+      "device": "gpu"
+    }
+  },
+  {
+    "timestamp": "2026-03-04T18:43:05.074792",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpwbjk0miy\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Replace 'Game Over' with 'Both'",
+    "status": "completed",
+    "details": {
+      "frames_processed": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-04T18:46:55.934560",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp_5lrhfjb\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Replace 'Game Over' with 'Both'",
+    "status": "started",
+    "details": {
+      "device": "gpu"
+    }
+  },
+  {
+    "timestamp": "2026-03-04T18:46:57.281512",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp_5lrhfjb\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Replace 'Game Over' with 'Both'",
+    "status": "completed",
+    "details": {
+      "frames_processed": 0
+    }
+  },
+  {
+    "timestamp": "2026-03-04T18:50:33.961861",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp5wn0z_ib\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Command: \"Replace 'Game Over' with 'Both'\"",
+    "status": "started",
+    "details": {
+      "device": "cpu"
+    }
+  },
+  {
+    "timestamp": "2026-03-04T18:50:57.153662",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp5wn0z_ib\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Command: \"Replace 'Game Over' with 'Both'\"",
+    "status": "completed",
+    "details": {
+      "frames_processed": 170
+    }
+  },
+  {
+    "timestamp": "2026-04-05T15:22:24.043722",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpzqyafy0l\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Replace the \"Game Over\" text with \"Both\"",
+    "status": "started",
+    "details": {
+      "device": "cpu"
+    }
+  },
+  {
+    "timestamp": "2026-04-05T15:29:27.284798",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpzqyafy0l\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Replace the \"Game Over\" text with \"Both\"",
+    "status": "completed",
+    "details": {
+      "frames_processed": 169
+    }
+  },
+  {
+    "timestamp": "2026-04-05T15:36:33.011441",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpsyxej70w\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the \"GAME OVER\" text to \"BOTH\". The Game Over tag stays on the screen from the 1st second till the 5th second of the video clip. I have taken some  zoomed in screenshots of the \"GAME OVER\" text in the video and attached in the optional reference image tab.",
+    "status": "started",
+    "details": {
+      "device": "cpu"
+    }
+  },
+  {
+    "timestamp": "2026-04-05T15:43:20.730515",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpsyxej70w\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the \"GAME OVER\" text to \"BOTH\". The Game Over tag stays on the screen from the 1st second till the 5th second of the video clip. I have taken some  zoomed in screenshots of the \"GAME OVER\" text in the video and attached in the optional reference image tab.",
+    "status": "completed",
+    "details": {
+      "frames_processed": 169
+    }
+  },
+  {
+    "timestamp": "2026-04-05T16:29:58.899370",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp2a4o3oo8\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the \"GAME OVER\" text to \"BOTH\". I have added an example of the \"GAME OVER\" text in the Reference Image.",
+    "status": "started",
+    "details": {
+      "device": "cpu"
+    }
+  },
+  {
+    "timestamp": "2026-04-05T16:37:10.602438",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp2a4o3oo8\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the \"GAME OVER\" text to \"BOTH\". I have added an example of the \"GAME OVER\" text in the Reference Image.",
+    "status": "completed",
+    "details": {
+      "frames_processed": 169
+    }
+  },
+  {
+    "timestamp": "2026-04-05T16:55:35.635208",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp__dzh88g\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the text \"GAME OVER\" to \"BOTH\".",
+    "status": "started",
+    "details": {
+      "device": "cpu"
+    }
+  },
+  {
+    "timestamp": "2026-04-05T17:02:46.300526",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp__dzh88g\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the text \"GAME OVER\" to \"BOTH\".",
+    "status": "completed",
+    "details": {
+      "frames_processed": 169
+    }
+  },
+  {
+    "timestamp": "2026-04-05T17:48:51.625367",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpty_8quoe\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the text \"GAME OVER\" to \"BOTH\"",
+    "status": "started",
+    "details": {
+      "device": "cpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 5
+    }
+  },
+  {
+    "timestamp": "2026-04-05T17:55:30.806331",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpty_8quoe\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the text \"GAME OVER\" to \"BOTH\"",
+    "status": "completed",
+    "details": {
+      "frames_processed": 169,
+      "reference_images": 5
+    }
+  },
+  {
+    "timestamp": "2026-04-05T18:29:31.440397",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp_lw6uhh1\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the text \"GAME OVER\" to \"BOTH\"",
+    "status": "started",
+    "details": {
+      "device": "cpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 5
+    }
+  },
+  {
+    "timestamp": "2026-04-05T18:33:24.375750",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp_lw6uhh1\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the text \"GAME OVER\" to \"BOTH\"",
+    "status": "completed",
+    "details": {
+      "frames_processed": 169,
+      "reference_images": 5
+    }
+  },
+  {
+    "timestamp": "2026-04-05T18:52:04.882307",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpiux3ncoq\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change \"GAME OVER\" to \"BOTH\"",
+    "status": "started",
+    "details": {
+      "device": "cpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-04-05T18:58:14.702571",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpiux3ncoq\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change \"GAME OVER\" to \"BOTH\"",
+    "status": "completed",
+    "details": {
+      "frames_processed": 169,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-04-05T19:18:08.194286",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpmxcf2nik\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the text \"GAME OVER\" to \"BOTH\"",
+    "status": "started",
+    "details": {
+      "device": "cpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-04-05T19:25:04.318386",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpmxcf2nik\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the text \"GAME OVER\" to \"BOTH\"",
+    "status": "completed",
+    "details": {
+      "frames_processed": 169,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-04-05T19:27:08.725924",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmput5rraeo\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the text \"GAME OVER\" to \"BOTH\"",
+    "status": "started",
+    "details": {
+      "device": "cpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-04-05T19:31:23.748423",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmput5rraeo\\Prince of Persia Warrior Within Game Over (Standard Enemy).mp4",
+    "command": "Change the text \"GAME OVER\" to \"BOTH\"",
+    "status": "completed",
+    "details": {
+      "frames_processed": 169,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-05-18T00:13:52.799725",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpa44g7bf7\\2025-10-05_00-02-44.mp4",
+    "command": "Make this video cinematic. Change the background so it looks like a real battlefield, but the shape of the battlefield should not change. Dress up the characters in the video to look like real soldiers.",
+    "status": "started",
+    "details": {
+      "device": "cpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-05-18T00:13:52.859929",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpa44g7bf7\\2025-10-05_00-02-44.mp4",
+    "command": "Make this video cinematic. Change the background so it looks like a real battlefield, but the shape of the battlefield should not change. Dress up the characters in the video to look like real soldiers.",
+    "status": "error",
+    "details": {
+      "error": "request for cinematic style transformation is beyond current capabilities"
+    }
+  },
+  {
+    "timestamp": "2026-05-18T00:16:45.399906",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpa44g7bf7\\2025-10-05_00-02-44.mp4",
+    "command": "Make this video cinematic. Change the background so it looks like a real battlefield, but the shape of the battlefield should not change. Dress up the characters in the video to look like real soldiers.\nAdditional guidance: All elements of background needs to be changed to resemble a real battlefield. Make the weather like a thunderstorm, add the sounds of rain and occasional thunder. Instead of proper manmade structure, make it look like old manmade ruins which have been abandoned in the wilderness for hundreds of years. Do not change the map items. If there is a box in the background, then the box should remain there but should look like it has been abandoned for a long time.",
+    "status": "started",
+    "details": {
+      "device": "cpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-05-18T00:16:45.454897",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpa44g7bf7\\2025-10-05_00-02-44.mp4",
+    "command": "Make this video cinematic. Change the background so it looks like a real battlefield, but the shape of the battlefield should not change. Dress up the characters in the video to look like real soldiers.\nAdditional guidance: All elements of background needs to be changed to resemble a real battlefield. Make the weather like a thunderstorm, add the sounds of rain and occasional thunder. Instead of proper manmade structure, make it look like old manmade ruins which have been abandoned in the wilderness for hundreds of years. Do not change the map items. If there is a box in the background, then the box should remain there but should look like it has been abandoned for a long time.",
+    "status": "error",
+    "details": {
+      "error": "request for cinematic transformation is beyond current capabilities\n\nMore detail:\n- Could you please specify which elements of the background need to be changed and how the characters should be dressed? Also, do you want specific sounds added or just a general atmosphere change?\n\nParser note: Could you please specify which elements of the background need to be changed and how the characters should be dressed? Also, do you want specific sounds added or just a general atmosphere change?\n\nAiEdit is built for **local, mask-based** edits (text, tracked objects, colors). It cannot yet restyle an entire scene (e.g. \u201cmake it cinematic\u201d, wholesale background swaps, costume changes).\n\nTry prompts like:\n- Replace \"Hello\" with \"Goodbye\"\n- Remove text from the video\n- Change Rapunzel's hair color to pink\n- Remove the fireworks behind the character\n- Replace the crown with a flower (upload a reference image first)"
+    }
+  },
+  {
+    "timestamp": "2026-05-18T01:19:55.246571",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpd5hu292o\\2025-10-05_00-02-44.mp4",
+    "command": "Change the weather to be cloudy with heavy rain. Add occasional thunder. Add the appropriate sounds.\nAdditional guidance: Don't change what's happening in the video. The map/characters/existing sound/movement/ camera placement etc must be exactly same. Only change the weather/atmosphere of the video/",
+    "status": "started",
+    "details": {
+      "device": "cpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-05-18T01:51:06.276478",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpd5hu292o\\2025-10-05_00-02-44.mp4",
+    "command": "Change the weather to be cloudy with heavy rain. Add occasional thunder. Add the appropriate sounds.\nAdditional guidance: Don't change what's happening in the video. The map/characters/existing sound/movement/ camera placement etc must be exactly same. Only change the weather/atmosphere of the video/",
+    "status": "completed",
+    "details": {
+      "frames_processed": 2571,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-05-18T20:55:51.077593",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp9nkut9d6\\2025-10-05_00-02-44.mp4",
+    "command": "Change the weather in the video to be cloudy with heavy rain and thunderstorm sometimes.\nAdditional guidance: Add the appropriate sounds of rain and thunder , make the weather rainy. Dont change anything else. The map/ characters/movement of characters/existing sounds are very important and should not be changed.",
+    "status": "started",
+    "details": {
+      "device": "cpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-05-18T21:27:14.232640",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp9nkut9d6\\2025-10-05_00-02-44.mp4",
+    "command": "Change the weather in the video to be cloudy with heavy rain and thunderstorm sometimes.\nAdditional guidance: Add the appropriate sounds of rain and thunder , make the weather rainy. Dont change anything else. The map/ characters/movement of characters/existing sounds are very important and should not be changed.",
+    "status": "completed",
+    "details": {
+      "frames_processed": 2571,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-05-18T22:53:47.665653",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp6hzaoi8y\\2025-10-05_00-02-44_edited.mp4",
+    "command": "There is this weird watermark on the video, I need to remove it. Also, there is no sound of the lightning flashes. The weather is stormy with rain and thunder.  I can hear the thunder, but the lightning doesn't give any sound. Add the proper thunder sound when the lightning flashes occurs.\nAdditional guidance: Watermark stays constant on the screen no matter what is happening on the screen. I have uploaded a zoomed in screenshot of the watermark. Remove it from the whole video.",
+    "status": "started",
+    "details": {
+      "device": "gpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 1
+    }
+  },
+  {
+    "timestamp": "2026-05-18T23:19:59.274820",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp6hzaoi8y\\2025-10-05_00-02-44_edited.mp4",
+    "command": "There is this weird watermark on the video, I need to remove it. Also, there is no sound of the lightning flashes. The weather is stormy with rain and thunder.  I can hear the thunder, but the lightning doesn't give any sound. Add the proper thunder sound when the lightning flashes occurs.\nAdditional guidance: Watermark stays constant on the screen no matter what is happening on the screen. I have uploaded a zoomed in screenshot of the watermark. Remove it from the whole video.",
+    "status": "completed",
+    "details": {
+      "frames_processed": 2563,
+      "reference_images": 1
+    }
+  },
+  {
+    "timestamp": "2026-05-18T23:29:57.209981",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmpxgprjjzs\\2025-10-05_00-02-44.mp4",
+    "command": "There is this weird watermark on the video, I need to remove it.\nAdditional guidance: The watermark is semi-transparent. I have provided a zoomed in image of the watermark. Remove it from the full video",
+    "status": "started",
+    "details": {
+      "device": "gpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 1
+    }
+  },
+  {
+    "timestamp": "2026-05-24T02:07:18.512711",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmph9z16y2q\\Counter-Strike 2 - 2026-05-23 3-22-09 PM.mp4",
+    "command": "Add commentary to this video of Dark_Wizard playing counter strike. Make the commentary as humorous as possible. Commentary should reflect what's going on in the video, don't just add random things.  Decrease the original video's audio to about 35% so that the commentary can easily be heard.",
+    "status": "started",
+    "details": {
+      "device": "cpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-05-24T02:15:06.416957",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmph9z16y2q\\Counter-Strike 2 - 2026-05-23 3-22-09 PM.mp4",
+    "command": "Add commentary to this video of Dark_Wizard playing counter strike. Make the commentary as humorous as possible. Commentary should reflect what's going on in the video, don't just add random things.  Decrease the original video's audio to about 35% so that the commentary can easily be heard.",
+    "status": "completed",
+    "details": {
+      "operation": "auto_commentary",
+      "lines": 11,
+      "events": 106
+    }
+  },
+  {
+    "timestamp": "2026-05-24T02:25:01.456909",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp3rgbmto1\\Counter-Strike 2 - 2026-05-23 3-22-09 PM.mp4",
+    "command": "Add commentary for the full length of this video of Dark_Wizard playing counter strike. Make it as humorous as possible. Keep the original audio at about 35% so that the commentary can easily be heard.",
+    "status": "started",
+    "details": {
+      "device": "cpu",
+      "preserve_original_style": true,
+      "apply_to_whole_clip": true,
+      "reference_images": 0
+    }
+  },
+  {
+    "timestamp": "2026-05-24T02:37:32.957685",
+    "video": "C:\\Users\\adity\\AppData\\Local\\Temp\\tmp3rgbmto1\\Counter-Strike 2 - 2026-05-23 3-22-09 PM.mp4",
+    "command": "Add commentary for the full length of this video of Dark_Wizard playing counter strike. Make it as humorous as possible. Keep the original audio at about 35% so that the commentary can easily be heard.",
+    "status": "completed",
+    "details": {
+      "operation": "auto_commentary",
+      "lines": 11,
+      "events": 106
+    }
+  }
+]

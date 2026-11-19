@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local secrets
+.env
+.env.*
+
+# Runtime logs (keep directory; ignore bulky rotating logs)
+logs/*.log
+
+# Generated edit output (video, audio, frames)
+downloads/
+
+# Manual / smoke-test artifacts (see test_modules.py)
+demo_*.png
+test_sample.png
+test_frame.png
+test_detection.png
+test_cleaned.png
+test_final.png
+text_detection_result.png
+text_removed.png
+text_overlay_result.png
+data/
+aiedit_auth.db
+frontend/node_modules/
+frontend/.svelte-kit/
+frontend/build/
+.aiedit_storage/
